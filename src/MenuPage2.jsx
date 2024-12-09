@@ -6,7 +6,7 @@ function MenuPage () {
                  style={{backgroundColor: "#E6D4C6", height: "auto", paddingBottom: "10.5rem", position: "relative", marginBottom: "1rem"}}>
 
             <div className="food-banner" style={{position: "absolute", top: "-32px", left: "-1px"}}>
-                <img src={"./images/jollof.png"} alt="food-banner" width="65%"/>
+                <img src={"./images/jollof.png"} alt="food-banner" width="52%"/>
             </div>
 
             <div style={{display: "grid", gridTemplateColumns: "1fr 1fr", padding: "1rem 0.5rem", gap: "0.8rem"}}>
@@ -96,8 +96,8 @@ function MenuPage () {
 
 
             </div>
-            <div className="food-banner" style={{position: "absolute", bottom: "-38px", right: "-58px", rotate: ""}}>
-                <img src={"./images/fruits.png"} alt="food-banner" width="80%"/>
+            <div className="food-banner" style={{position: "absolute", bottom: "-38px", right: "-84px", rotate: ""}}>
+                <img src={"./images/fruits.png"} alt="food-banner" width="70%"/>
             </div>
 
         </section>
