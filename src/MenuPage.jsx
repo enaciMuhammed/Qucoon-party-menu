@@ -19,7 +19,7 @@ function MenuPage () {
                             <article key={id} className="" style={{}}>
                                 <div className="">
 
-                                    <p style={{marginTop: "-0.5rem"}} className="">{description}</p>
+                                    <p style={{marginTop: "-0.5rem", color: "#333"}} className="">{description}</p>
 
                                 </div>
                             </article>
@@ -40,7 +40,7 @@ function MenuPage () {
                                 <div className="">
 
                                     <h4 style={{backgroundColor: ""}}>{title}</h4>
-                                    <p style={{marginTop: "-0.5rem"}} className="">{description}</p>
+                                    <p style={{marginTop: "-0.5rem", color: "#333"}} className="">{description}</p>
 
                                 </div>
                             </article>

@@ -22,7 +22,7 @@ function MenuPage () {
                             <article key={id} className="" style={{}}>
                                 <div className="">
 
-                                    <p style={{marginTop: "-0.5rem"}} className="">{description}</p>
+                                    <p style={{marginTop: "-0.5rem", color: "#333"}} className="">{description}</p>
 
                                 </div>
                             </article>
@@ -39,8 +39,8 @@ function MenuPage () {
                     <article  className="" style={{}}>
                         <div className="">
 
-                            <p style={{marginTop: "0.5rem"}} className="">7 mini selection of in-house made desert</p>
-                            <p style={{marginTop: "-0.5rem"}} className="">Slice fruits of the day</p>
+                            <p style={{marginTop: "0.5rem", color: "#333"}} className="">7 mini selection of in-house made desert</p>
+                            <p style={{marginTop: "-0.5rem", color: "#333"}} className="">Slice fruits of the day</p>
 
                         </div>
                     </article>
@@ -62,7 +62,7 @@ function MenuPage () {
                                     <article key={id} className="" style={{}}>
                                         <div className="">
 
-                                            <p style={{marginTop: "-0.5rem"}} className="">{description}</p>
+                                            <p style={{marginTop: "-0.5rem", color: "#333"}} className="">{description}</p>
 
                                         </div>
                                     </article>
@@ -83,7 +83,7 @@ function MenuPage () {
                                     <article key={id} className="" style={{}}>
                                         <div className="">
 
-                                            <p style={{marginTop: "-0.5rem"}} className="">{description}</p>
+                                            <p style={{marginTop: "-0.5rem", color: "#333"}} className="">{description}</p>
 
                                         </div>
                                     </article>
