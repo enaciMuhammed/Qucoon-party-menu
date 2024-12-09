@@ -50,8 +50,8 @@ function MenuPage () {
 
 
             </div>
-            <div className="food-banner" style={{position: "absolute", bottom: "-36px", right: "-30px", rotate: ""}}>
-                <img src={"./images/bbq1.png"} alt="food-banner" width="90%"/>
+            <div className="food-banner" style={{position: "absolute", bottom: "-36px", right: "0px", backgroundColor: "", paddingLeft: ""}}>
+                <img src={"./images/bbq1.png"} alt="food-banner" width="90%" style={{position: "absolute", bottom: "4px", right: "0px", backgroundColor: "", paddingLeft: ""}}/>
             </div>
 
         </section>

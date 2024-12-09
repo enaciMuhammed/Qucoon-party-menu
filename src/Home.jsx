@@ -4,7 +4,7 @@ function Home () {
     return (
         <section className="section" style={{backgroundColor: "#E6D4C6", height: "auto", paddingBottom: "3rem", marginBottom: "1rem"}}>
             <Logo />
-            <div className="food-banner">
+            <div className="food-banner" style={{backgroundColor: "", paddingLeft: "30px"}}>
                 <img src={"./images/food_on_plate-1.png"} alt="food-banner" width="100%" />
             </div>
             <div className="bottom">
